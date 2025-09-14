@@ -111,5 +111,7 @@ I'm sharing the complete n8n workflow file—all of it + it’s airtable base.
 This is the exact system running behind the scenes for content creators pulling 7-figure audiences.
 
 **Automation JSON**: virality_engine.json
+
 **Airtable base:** https://airtable.com/appNjkQ46GVRZgrHR/shrVHMb2pPkIWS34H
+
 **Source:** https://www.ghiless.com
